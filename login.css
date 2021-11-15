@@ -1,0 +1,33 @@
+#forms{
+    width: 50%;
+    height: 500px;
+    border: 10px solid rgb(0, 98, 255);
+    border-radius: 30px;
+    background-color: rgb(162, 232, 248);
+    margin-left: 400px;
+    margin-top: 90px;
+}
+
+#forms lable{
+    margin: 20px;
+}
+
+#btn{
+    padding: 5px 20px;
+    background-color: rgb(60, 0, 255);
+    color: white;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+
+}
+
+h1{
+    color: blue;
+    
+}
+input{
+    padding: 5px;
+}
